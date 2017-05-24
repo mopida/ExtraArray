@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     let Array:[String] = ["しのきん","ながた","もっちー","がちゃ","じょびんこ","そうたつ","たかぴー","シャンクス","キング","ごっちゃん","ぽん","たろす","まんねん","きょめ"]
     
+    
     @IBOutlet var label:UILabel!
     
     var number : Int = 0
